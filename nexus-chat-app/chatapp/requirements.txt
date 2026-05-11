@@ -1,0 +1,7 @@
+django>=4.2
+channels[daphne]>=4.0
+djangorestframework>=3.14
+django-cors-headers>=4.0
+motor>=3.0
+pymongo>=4.0
+dnspython>=2.0
